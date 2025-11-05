@@ -8,3 +8,7 @@
 点击应用名称跳转至微软产品页面跟踪最新版本信息。
 
 - [**Process Explorer**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer)：https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.003-procexp/procexp64.exe
+
+## 已知问题
+
+- [#1：Process Explorer 打开 Process Explorer 进程显示 ASLR 状态有误，其他进程没有此问题。](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/1)
