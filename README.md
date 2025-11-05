@@ -5,4 +5,6 @@
 
 ## 下载链接
 
-- **Process Explorer**：https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.003-procexp/procexp64.exe
+点击应用名称跳转至微软产品页面跟踪最新版本信息。
+
+- [**Process Explorer**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer)：https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.003-procexp/procexp64.exe
