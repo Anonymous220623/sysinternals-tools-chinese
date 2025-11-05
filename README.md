@@ -11,4 +11,7 @@
 
 ## 已知问题
 
+### Process Explorer
+
 - [#1：Process Explorer 打开 Process Explorer 进程显示 ASLR 状态有误，其他进程没有此问题。](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/1)
+- [#2：强制完整性级别字符串 (`*** Mandatory Level`) 无法翻译](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/2)
