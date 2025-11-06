@@ -8,6 +8,7 @@
 点击应用名称跳转至微软产品页面跟踪最新版本信息。
 
 - [**Process Explorer**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer)：https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.004-procexp/procexp64.exe
+- [**WinObj**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/winobj)：https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v3.14.001-winobj/Winobj64.exe
 
 ## 已知问题
 
