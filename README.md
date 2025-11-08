@@ -1,7 +1,7 @@
 # Sysinternals Tools Chinese
 一些 Sysinternals 工具的汉化版（自己使用 [IDA](https://hex-rays.com/ida-pro)、 [wxMEdit](https://github.com/wxMEdit/wxMEdit) 和 [Resource Hacker](https://www.angusj.com/resourcehacker/) 修改，未加壳）
 
-仅提供 64 位版本。
+仅提供 64 位版本，x86_32 和 ARM 不提供。 
 
 ## 下载链接
 
