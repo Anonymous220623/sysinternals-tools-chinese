@@ -25,4 +25,4 @@
 
 ### Process Monitor
 
-- [$8：翻译“备份文件”中的 “Name” 会导致详细信息页面中的注册表查询值更改为“名称”](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/8)
+- [#8：翻译“备份文件”中的 “Name” 会导致详细信息页面中的注册表查询值更改为“名称”](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/8)
