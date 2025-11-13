@@ -1,11 +1,11 @@
-> [!WARNING]
->
-> 项目暂时关闭。
-
 # Sysinternals Tools Chinese
 一些 Sysinternals 工具的汉化版（自己使用 [wxMEdit](https://github.com/wxMEdit/wxMEdit) 和 [Resource Hacker](https://www.angusj.com/resourcehacker/) 修改，未加壳）
 
 仅提供 64 位版本，x86_32 和 ARM 不提供。 
+
+## 重要提醒
+
+本人能力有限，只能对程序的静态数据段和资源段做修改，不能修改代码段指向某串数据的指令流，因此汉化的软件可能会出现类似于 [https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10) 那样的严重错误。
 
 ## 下载链接
 
