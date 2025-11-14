@@ -11,9 +11,11 @@
 
 点击应用名称跳转至微软产品页面跟踪最新版本信息。
 
-- [**Process Explorer**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer)：https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.006-procexp/procexp64.exe
-- [**WinObj**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/winobj)：https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v3.14.003-winobj/Winobj64.exe
-- [**Process Monitor**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/procmon)：（发现影响正常使用的[问题](#process-monitor)，暂时关闭下载链接）
+| 应用名称 | 已汉化版本 | 最新版本 | Patch 版本号 | 下载链接 | 
+|--|--|--|--|--|
+| [**Process Explorer**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer) | v17.06(2024.??.??) | **v17.07(2025.11.11)** | v17.06.006 | [https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.006-procexp/procexp64.exe](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.006-procexp/procexp64.exe) |
+| [**WinObj**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/winobj) | v3.14(2022.1.27) | v3.14(2022.1.27) | v3.14.003 | [https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v3.14.003-winobj/Winobj64.exe](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v3.14.003-winobj/Winobj64.exe) |
+| [**Process Monitor**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/procmon) | v4.01(2024.6.20) | v4.01(2024.6.20) | v4.01.006 | [https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.01.006-procmon/Procmon64.exe](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.01.006-procmon/Procmon64.exe)（该 Patch 存在影响正常使用的问题 [https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10)） |
 
 ## 已知问题
 
