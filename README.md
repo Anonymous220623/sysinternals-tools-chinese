@@ -14,6 +14,7 @@
 | [**RAMMap**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap) | v1.61(2022.5.11) | v1.61(2022.5.11) | v1.61.001 | [https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v1.61.002-rammap/RAMMap64.exe](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v1.61.002-rammap/RAMMap64.exe) |
 | [**Process Monitor**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/procmon) | v4.01(2024.6.20) | v4.01(2024.6.20) | v4.01.006 | [https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.01.006-procmon/Procmon64.exe](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.01.006-procmon/Procmon64.exe)（该 Patch 存在影响正常使用的问题 [https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10)） |
 | [**Desktops**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/desktops) | v2.1(2021.10.12) | v2.1(2021.10.12) | v2.1.001 | [https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v2.1.001-desktops/Desktops64.exe](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v2.1.001-desktops/Desktops64.exe) |
+| [**Not My Fault**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/notmyfault) | v4.21(2022.9.29) | v4.21(2022.9.29) | v4.21.001 | [https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.21.001-notmyfault/notmyfault64.exe](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.21.001-notmyfault/notmyfault64.exe) |
 
 ## 已知问题
 
@@ -36,3 +37,7 @@
 ### RAMMap
 
 - [#11(v1.61.*)：MS936 编码导致预留空间不足，OK 无法翻译为“确定”](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/11)
+
+### Not My Fault
+
+- [#14(v4.21.*)（纠正策略，无需修复）：MS936 编码导致翻译空间不足，删除后一位后注册表原配置路径失效。](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/14)
