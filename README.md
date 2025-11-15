@@ -1,3 +1,7 @@
+> [!WARNING]
+>
+> 项目暂时关闭。
+
 # Sysinternals Tools Chinese
 一些 Sysinternals 工具的汉化版（自己使用 [wxMEdit](https://github.com/wxMEdit/wxMEdit) 和 [Resource Hacker](https://www.angusj.com/resourcehacker/) 修改，未加壳）
 
