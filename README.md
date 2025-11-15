@@ -35,3 +35,7 @@
 - [**#10(v4.01.006)（严重）：选择列失败**](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10)
 - [#7(v4.01.006)：详细信息列翻译导致与原来 Process Monitor 进程信息数据库的兼容性问题](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/7)
 - [#8(v4.01.006)：翻译“备份文件”中的 “Name” 会导致详细信息页面中的注册表查询值更改为“名称”](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/8)
+
+### RAMMap
+
+- [#11(v1.61.*)：MS396 编码导致预留空间不足，OK 无法翻译为“确定”](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/11)
