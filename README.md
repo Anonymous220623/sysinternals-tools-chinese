@@ -35,4 +35,4 @@
 
 ### RAMMap
 
-- [#11(v1.61.*)：MS396 编码导致预留空间不足，OK 无法翻译为“确定”](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/11)
+- [#11(v1.61.*)：MS936 编码导致预留空间不足，OK 无法翻译为“确定”](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/11)
