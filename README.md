@@ -19,7 +19,7 @@
 
 ### Process Explorer
 
-- [#1(v17.06.006)：Process Explorer 打开 Process Explorer 进程显示 ASLR 状态有误，其他进程没有此问题](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/1)
+- [#1(v17.06.007)：Process Explorer 打开 Process Explorer 进程显示 ASLR 状态有误，其他进程没有此问题](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/1)
 - [#2(v17.06.*)：强制完整性级别字符串 (`*** Mandatory Level`) 无法翻译](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/2)
 - [#3(v17.06.*)：句柄类型无法翻译，类型描述翻译后不显示](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/3)
 
