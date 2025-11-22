@@ -11,7 +11,6 @@
 | [**Process Explorer**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer) | v17.06(2024.??.??) | **v17.08(2025.11.20)** | v17.06.008 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.008-procexp/procexp64.exe)    [7z 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v17.06.008-procexp/procexp64.7z) |
 | [**WinObj**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/winobj) | v3.14(2022.1.27) | v3.14(2022.1.27) | v3.14.003 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v3.14.003-winobj/Winobj64.exe) |
 | [**RAMMap**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/rammap) | v1.61(2022.5.11) | v1.61(2022.5.11) | v1.61.001 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v1.61.002-rammap/RAMMap64.exe) [7z 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v1.61.002-rammap/RAMMap64.7z) |
-| [**Process Monitor**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/procmon) | v4.01(2024.6.20) | v4.01(2024.6.20) | v4.01.006 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.01.006-procmon/Procmon64.exe)（该 Patch 存在影响正常使用的问题 [#10](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10)） |
 | [**Desktops**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/desktops) | v2.1(2021.10.12) | v2.1(2021.10.12) | v2.1.001 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v2.1.001-desktops/Desktops64.exe) |
 | [**Not My Fault**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/notmyfault) | v4.21(2022.9.29) | v4.21(2022.9.29) | v4.21.001 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.21.001-notmyfault/notmyfault64.exe) |
 | [**Autoruns**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/autoruns) | v14.11(2024.2.6) | v14.11(2024.2.6) | v14.11.001 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v14.11.001-autoruns/Autoruns64.exe) |
@@ -27,12 +26,6 @@
 ### WinObj
 
 - [#4(v3.14.*)：翻译 Directory 字符串会导致对象目录无法正常显示](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/4)
-
-### Process Monitor
-
-- [**#10(v4.01.006)（严重）：选择列失败**](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10)
-- [#7(v4.01.006)：详细信息列翻译导致与原来 Process Monitor 进程信息数据库的兼容性问题](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/7)
-- [#8(v4.01.006)：翻译“备份文件”中的 “Name” 会导致详细信息页面中的注册表查询值更改为“名称”](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/8)
 
 ### RAMMap
 
