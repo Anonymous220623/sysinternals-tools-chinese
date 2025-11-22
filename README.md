@@ -1,6 +1,11 @@
-一些 Sysinternals 工具的汉化版（自己使用 [wxMEdit](https://github.com/wxMEdit/wxMEdit) 和 [Resource Hacker](https://www.angusj.com/resourcehacker/) 修改，未加壳）
+<h1 align="center">Sysinternals 社区汉化版工具集合</h1>
 
-仅提供 64 位版本，x86_32 和 ARM 不提供。 
+## 使用说明
+
+1. 本仓库仅提供 64 位版本，x86_32 和 ARM 暂不提供。
+2. 在使用过程中如果发现未汉化或翻译错误的地方，欢迎提 issue。
+3. 因 Sysinternals 为专有软件（封闭源码），本仓库拒绝附带二进制文件的 PR 以防止病毒传播。
+4. 已发现但本人无法解决的问题会列在[已知问题](#已知问题)区域。
 
 ## 下载链接
 
