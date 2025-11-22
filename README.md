@@ -14,6 +14,7 @@
 | [**Process Monitor**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/procmon) | v4.01(2024.6.20) | v4.01(2024.6.20) | v4.01.006 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.01.006-procmon/Procmon64.exe)（该 Patch 存在影响正常使用的问题 [#10](https://github.com/Anonymous220623/sysinternals-tools-chinese/issues/10)） |
 | [**Desktops**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/desktops) | v2.1(2021.10.12) | v2.1(2021.10.12) | v2.1.001 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v2.1.001-desktops/Desktops64.exe) |
 | [**Not My Fault**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/notmyfault) | v4.21(2022.9.29) | v4.21(2022.9.29) | v4.21.001 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v4.21.001-notmyfault/notmyfault64.exe) |
+| [**Autoruns**](https://learn.microsoft.com/zh-cn/sysinternals/downloads/autoruns) | v14.11(2024.2.6) | v14.11(2024.2.6) | v14.11.001 | [EXE 文件](https://github.com/Anonymous220623/sysinternals-tools-chinese/releases/download/v14.11.001-autoruns/Autoruns64.exe) |
 
 ## 已知问题
 
